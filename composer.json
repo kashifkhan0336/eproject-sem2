@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-pdo": "*",
+        "foil/foil": "0.*",
+        "josantonius/session": "^2.0"
+    }
+}
